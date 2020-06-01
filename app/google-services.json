@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971417951463",
+    "firebase_url": "https://camerafirebase-9491c.firebaseio.com",
+    "project_id": "camerafirebase-9491c",
+    "storage_bucket": "camerafirebase-9491c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971417951463:android:b214e2c5d73df97f999642",
+        "android_client_info": {
+          "package_name": "com.medival.camerafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971417951463-c47ikhl88qg5uaqmk5a2l6bep2jpqusl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_a3dlPidbEt-pnSmniWoM0If9QJBd6m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971417951463-c47ikhl88qg5uaqmk5a2l6bep2jpqusl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
